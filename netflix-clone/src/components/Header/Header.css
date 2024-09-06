@@ -4,8 +4,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  /* background-color: rgb(148, 132, 132); */
-  background-color: rgb(20, 20, 20);
+    background-color: rgb(20, 20, 20);
   background-color: transparent;
   height: 10vh;
   color: white;
@@ -14,9 +13,9 @@
   z-index: 1;
   background-color: rgb(7, 8, 8);
 }
-.nav_blacket{
+/* .nav_blacket{
   background-color: ;
-}
+} */
 .header_container {
   width: 90%;
   display: flex;
